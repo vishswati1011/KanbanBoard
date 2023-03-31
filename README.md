@@ -1,10 +1,15 @@
 <h1 align="center">
-  KanbanBoard
+  KanbanBoard   
 </h1>
 
 <h3 align="center">
   A Kanban Board for project and task management
 </h3>
+
+<h3 align="center">
+    In this Project Chakra ui is used and for drag and drop react-beautiful-dnd is used
+</h3>
+
 
 ![](kanbanboard.gif)
 
