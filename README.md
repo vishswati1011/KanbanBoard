@@ -86,7 +86,7 @@ You can use the deployed application here: [KabanBoard](https://chamatt.github.i
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/chamatt/tasks-kaban-board.git && cd tasks-kaban-board
+$ git clone https://github.com/vishswati1011/KanbanBoard.git && cd tasks-kaban-board
 ```
 
 **Follow the steps below**
